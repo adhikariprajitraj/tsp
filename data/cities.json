@@ -1,0 +1,13 @@
+{
+    "Kathmandu": {"lat": 27.700769, "long": 85.300140},
+    "Pokhara": {"lat": 28.2096, "long": 83.9856},
+    "Lalitpur": {"lat": 27.6767339, "long": 85.316805},
+    "Birgunj": {"lat": 27.005915, "long": 84.859085},
+    "Bharatpur": {"lat": 27.676585, "long": 84.432182},
+    "Janakpur": {"lat": 26.7284541, "long": 85.9249005},
+    "Dharan": {"lat": 26.8126101, "long": 87.2838100},
+    "Butwal": {"lat": 27.686386, "long": 83.432426},
+    "Bhimdatta": {"lat": 28.987280, "long": 80.165184},
+    "Dhangadhi": {"lat": 28.703304, "long": 80.567017},
+    "Hetauda": {"lat": 27.4311239, "long": 85.0318633}
+}
